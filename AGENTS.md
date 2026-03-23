@@ -18,6 +18,7 @@ the-return-of-the-engineer/
 ├── AGENTS.md              # This file
 ├── .git/                  # Git history + remote to GitHub
 └── resources/
+    ├── Brand Architecture.md           # Ecosystem structure, brand roles, conversion strategy
     ├── RISE_OF_THE_ENGINEER_FULL_MANUSCRIPT.pdf
     ├── FIELD_MANUAL_FOR_THE_REMNANT.pdf
     ├── LINCHPIN_OS_BATTLE_BRIEFING_2027.pdf
@@ -215,7 +216,9 @@ The app is **pure React** (no backend). Can be deployed as:
 
 ### **When Integrating with Substack**
 - The app is **not embedded in Substack**; it's a **separate, gated platform** (e.g., `archive.thenominalman.com`)
-- Substack CTA: *"Paid members: Access the full Archive experience at [domain]"*
+- **The Nominal Man** (Substack) is the intercept station and growth engine — it reports on the *pathology*
+- **This app** (The Archive) is the immersive sovereign platform — it delivers the *cure*
+- Substack CTA: *"To read the full Archive in the Physical OS environment—with the Veto Toggle and Grid Telemetry—join the Guild."*
 - Authentication/paywall: Implement separately (could use third-party like Memberful or custom JWT)
 
 ---

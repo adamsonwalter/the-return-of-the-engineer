@@ -1,6 +1,6 @@
 # The Return of the Engineer
 
-**Tagline:** *Hard Reality for a Therapeutic Age.*
+> Part of **The Nominal Man** ecosystem — *Hard Reality for a Therapeutic Age.*
 
 ## What Is This?
 
@@ -12,8 +12,8 @@ This is the product layer of a two-part ecosystem:
 
 | Layer | Platform | Purpose |
 |-------|----------|---------|
-| **Front Door** | The Nominal Man (Substack at thenominalman.com) | Bi-weekly forensic audits of current events; email capture; growth engine |
-| **Archive** | The Return of the Engineer (this app) | Interactive, immersive book experience; gated for paid Guild members |
+| **Front Door** | The Nominal Man — Substack at thenominalman.com | Bi-weekly forensic audits of current events; email capture; growth engine. Reports on the **pathology**. |
+| **Archive** | The Return of the Engineer (this app) | Interactive, immersive book experience; gated for paid Guild members. Delivers the **cure**. |
 
 ---
 
@@ -90,7 +90,7 @@ This is the product layer of a two-part ecosystem:
 ## Next Steps
 
 1. **Deploy** — Configure for `archive.thenominalman.com` or `platform.thenominalman.com`
-2. **Substack Link** — Add call-to-action in Substack to drive subscribers to paid Archive access
+2. **Substack Link** — Add CTA: *"To read the full Archive in the Physical OS environment—with the Veto Toggle and Grid Telemetry—join the Guild."* Paid subscribers get the link/access.
 3. **Guild Gating** — Implement authentication/paywall for Substack members
 4. **Design Polish** — Refine UI, add responsive mobile layout
 5. **Analytics** — Track engagement, subscription conversion
@@ -108,7 +108,8 @@ Keep them distinct but linked. The Archive is the "high-value sovereign asset"�
 
 ## Resources
 
-See `/resources/` for reference PDFs:
+See `/resources/` for reference materials:
+- `Brand Architecture.md` — Ecosystem structure, brand roles, and conversion strategy
 - `RISE_OF_THE_ENGINEER_FULL_MANUSCRIPT.pdf` — Original manuscript
 - `FIELD_MANUAL_FOR_THE_REMNANT.pdf` — Supplementary field guide
 - `LINCHPIN_OS_BATTLE_BRIEFING_2027.pdf` — Strategic briefing
